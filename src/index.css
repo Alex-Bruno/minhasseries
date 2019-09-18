@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.genres a{
+  color:  #000000 !important;
+}
+
+#btn-save button{
+  margin-top: 10px;
+  margin-left: 1%;
+}
+
+.btn-geral{
+  margin-top: 10px;
+  margin-left: 1%;
+}

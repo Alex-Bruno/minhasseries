@@ -1,0 +1,30 @@
+{
+  "series": [
+    {
+      "name": "SPN",
+      "status": "Assistido",
+      "genre": "Comédia",
+      "comments": "God.",
+      "id": 1
+    },
+    {
+      "name": "TL",
+      "status": "Assistir",
+      "genre": "Drama",
+      "comments": "AS",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Home",
+      "status": "toWatch",
+      "genre": "Comédia",
+      "comments": "Teste"
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
